@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Level2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Level2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playMusic()
+comment3.text=\r\n\ PLays\ Music\ when\ the\ level\ starts\r\n\ \r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Creates\ items\ when\ world\ is\ created\r\n\ \r\n
+comment5.params=
+comment5.target=void\ damage()
+comment5.text=\r\n\ Activates\ healthbar\ damage\r\n\ \r\n
+comment6.params=
+comment6.target=void\ stop()
+comment6.text=\r\n\ Stops\ music\ when\ called\r\n\ \r\n
+numComments=7
